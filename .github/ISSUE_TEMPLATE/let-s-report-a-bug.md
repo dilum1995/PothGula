@@ -29,8 +29,8 @@ Please follow the issue template to **report a bug**
 
 <!--Where-ever possible add a screenshot of the issue.-->
 
--   Device: [e.g. iPhone6]
--   OS: [e.g. iOS8.1]
+-   Device: (e.g. iPhone6)
+-   OS: (e.g. iOS8.1)
 -   Flutter version: 
 
 **Would you like to work on the issue?**
